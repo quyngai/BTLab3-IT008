@@ -1,0 +1,16 @@
+D:\VS\BTTH3\BTTH3_Bai6\bin\Debug\net8.0-windows\BTTH3_Bai6.exe
+D:\VS\BTTH3\BTTH3_Bai6\bin\Debug\net8.0-windows\BTTH3_Bai6.deps.json
+D:\VS\BTTH3\BTTH3_Bai6\bin\Debug\net8.0-windows\BTTH3_Bai6.runtimeconfig.json
+D:\VS\BTTH3\BTTH3_Bai6\bin\Debug\net8.0-windows\BTTH3_Bai6.dll
+D:\VS\BTTH3\BTTH3_Bai6\bin\Debug\net8.0-windows\BTTH3_Bai6.pdb
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.Form1.resources
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.csproj.GenerateResource.cache
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.AssemblyInfoInputs.cache
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.AssemblyInfo.cs
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.csproj.CoreCompileInputs.cache
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.dll
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\refint\BTTH3_Bai6.dll
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.pdb
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\BTTH3_Bai6.genruntimeconfig.cache
+D:\VS\BTTH3\BTTH3_Bai6\obj\Debug\net8.0-windows\ref\BTTH3_Bai6.dll
